@@ -1,0 +1,12 @@
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\bin\Debug\netcoreapp3.0\QuickSort-Inplace.exe
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\bin\Debug\netcoreapp3.0\QuickSort-Inplace.deps.json
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\bin\Debug\netcoreapp3.0\QuickSort-Inplace.runtimeconfig.json
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\bin\Debug\netcoreapp3.0\QuickSort-Inplace.runtimeconfig.dev.json
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\bin\Debug\netcoreapp3.0\QuickSort-Inplace.dll
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\bin\Debug\netcoreapp3.0\QuickSort-Inplace.pdb
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\obj\Debug\netcoreapp3.0\QuickSort-Inplace.csprojAssemblyReference.cache
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\obj\Debug\netcoreapp3.0\QuickSort-Inplace.csproj.CoreCompileInputs.cache
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\obj\Debug\netcoreapp3.0\QuickSort-Inplace.AssemblyInfoInputs.cache
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\obj\Debug\netcoreapp3.0\QuickSort-Inplace.AssemblyInfo.cs
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\obj\Debug\netcoreapp3.0\QuickSort-Inplace.dll
+D:\Project\QuickSort-Inplace\QuickSort-Inplace\obj\Debug\netcoreapp3.0\QuickSort-Inplace.pdb
